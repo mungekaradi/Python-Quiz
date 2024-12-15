@@ -1,2 +1,3 @@
 # Python-Quiz
-100 Python Quiz for Beginners.
+100 Python Quiz for Beginners. Try solving 10 Quizzes a day, identify the expected output understanding the core concepts like list, array, loop, dictionary and so on...
+kinda good practice for Beginners this will help to think critically and logically.
